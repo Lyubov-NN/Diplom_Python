@@ -1,9 +1,1 @@
-# записать в tokens.py
-token_bot = 'vk1.a.s86Gx9LbCxSVYGISFbc4b0HEUTUb-Ve1yklLdQaIS5HOrHGnAt1DXMaTeCja2_D0OMJvltB_LNXhvgVrSnwXOyluhaRlPY0uQAoLSfW6TrpUC-tha7_t3wHk9HDa4zJmm0IoLHh-aI-GQwLfrkpQHsKzTuYdM9WJsC8pBOhKGwS8cS2TaymjojiN-AkbKi7m-jBEZqW1jA5yDzPm2A4qgQ'
 
-token_user = 'vk1.a.PwqkjWwtg7T7FMSZgmNd6g-EiukauzMalZHj4_ARR6KDogufM6kWYttJ_oRBTun_3lVQSr3OO9bfyz_31NqxJyzO5kGhM29oVAVsmT3Q_8SARTNoL3V1wmgxDqLAvpnHZsLNKupARpGRr-WFAGkzuhQbZc7dN3syWIHWM2YS4xmXNaXhlYv3JfyNqvCiEOna'
-
-# записать в path_base.py
-database = "bot_user"
-user = "postgres"
-password = "!2345Qwert"
